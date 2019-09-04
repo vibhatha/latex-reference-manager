@@ -1,0 +1,125 @@
+\begin{thebibliography}{10}
+
+\bibitem{chen2018task}
+Min Chen and Yixue Hao.
+\newblock Task offloading for mobile edge computing in software defined
+  ultra-dense network.
+\newblock {\em IEEE Journal on Selected Areas in Communications},
+  36(3):587--597, 2018.
+
+\bibitem{chen2015efficient}
+Xu~Chen, Lei Jiao, Wenzhong Li, and Xiaoming Fu.
+\newblock Efficient multi-user computation offloading for mobile-edge cloud
+  computing.
+\newblock {\em IEEE/ACM Transactions on Networking}, 24(5):2795--2808, 2015.
+
+\bibitem{gan}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680, 2014.
+
+\bibitem{google-coral}
+Google.
+\newblock Google coral, jul 2019.
+
+\bibitem{hou2018loss}
+Lu~Hou and James~T Kwok.
+\newblock Loss-aware weight quantization of deep networks.
+\newblock {\em arXiv preprint arXiv:1802.08635}, 2018.
+
+\bibitem{hubara2016binarized}
+Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, and Yoshua
+  Bengio.
+\newblock Binarized neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  4107--4115, 2016.
+
+\bibitem{hubara2017quantized}
+Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, and Yoshua
+  Bengio.
+\newblock Quantized neural networks: Training neural networks with low
+  precision weights and activations.
+\newblock {\em The Journal of Machine Learning Research}, 18(1):6869--6898,
+  2017.
+
+\bibitem{google-quantization}
+Benoit Jacob, Skirmantas Kligys, Bo~Chen, Menglong Zhu, Matthew Tang, Andrew
+  Howard, Hartwig Adam, and Dmitry Kalenichenko.
+\newblock Quantization and training of neural networks for efficient
+  integer-arithmetic-only inference.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2704--2713, 2018.
+
+\bibitem{gogletpudatacenter}
+Norman~P Jouppi, Cliff Young, Nishant Patil, David Patterson, Gaurav Agrawal,
+  Raminder Bajwa, Sarah Bates, Suresh Bhatia, Nan Boden, Al~Borchers, et~al.
+\newblock In-datacenter performance analysis of a tensor processing unit.
+\newblock In {\em 2017 ACM/IEEE 44th Annual International Symposium on Computer
+  Architecture (ISCA)}, pages 1--12. IEEE, 2017.
+
+\bibitem{kim2016bitwise}
+Minje Kim and Paris Smaragdis.
+\newblock Bitwise neural networks.
+\newblock {\em arXiv preprint arXiv:1601.06071}, 2016.
+
+\bibitem{krishnamoorthi2018quantizing}
+Raghuraman Krishnamoorthi.
+\newblock Quantizing deep convolutional networks for efficient inference: A
+  whitepaper.
+\newblock {\em arXiv preprint arXiv:1806.08342}, 2018.
+
+\bibitem{mobile-dnn}
+Nicholas~D Lane, Sourav Bhattacharya, Petko Georgiev, Claudio Forlivesi, Lei
+  Jiao, Lorena Qendro, and Fahim Kawsar.
+\newblock Deepx: A software accelerator for low-power deep learning inference
+  on mobile devices.
+\newblock In {\em Proceedings of the 15th International Conference on
+  Information Processing in Sensor Networks}, page~23. IEEE Press, 2016.
+
+\bibitem{lane2015can}
+Nicholas~D Lane and Petko Georgiev.
+\newblock Can deep learning revolutionize mobile sensing?
+\newblock In {\em Proceedings of the 16th International Workshop on Mobile
+  Computing Systems and Applications}, pages 117--122. ACM, 2015.
+
+\bibitem{tomogan-anl}
+Zhengchun Liu, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco
+  De~Carlo, and Ian Foster.
+\newblock Tomogan: Low-dose x-ray tomography with generative adversarial
+  networks.
+\newblock {\em arXiv preprint arXiv:1902.07582}, 2019.
+
+\bibitem{park2018value}
+Eunhyeok Park, Sungjoo Yoo, and Peter Vajda.
+\newblock Value-aware quantization for training and inference of neural
+  networks.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 580--595, 2018.
+
+\bibitem{dnn-cloud-edge}
+Surat Teerapittayanon, Bradley McDanel, and Hsiang-Tsung Kung.
+\newblock Distributed deep neural networks over the cloud, the edge and end
+  devices.
+\newblock In {\em 2017 IEEE 37th International Conference on Distributed
+  Computing Systems (ICDCS)}, pages 328--339. IEEE, 2017.
+
+\bibitem{tflite-google}
+Tensorflow.
+\newblock Tensorflowlite for mobile based deep learning, sep 2019.
+
+\bibitem{zhang2016energy}
+Ke~Zhang, Yuming Mao, Supeng Leng, Quanxin Zhao, Longjiang Li, Xin Peng,
+  Li~Pan, Sabita Maharjan, and Yan Zhang.
+\newblock Energy-efficient offloading for mobile edge computing in 5g
+  heterogeneous networks.
+\newblock {\em IEEE access}, 4:5896--5907, 2016.
+
+\bibitem{zhou2019edge}
+Zhi Zhou, Xu~Chen, En~Li, Liekang Zeng, Ke~Luo, and Junshan Zhang.
+\newblock Edge intelligence: Paving the last mile of artificial intelligence
+  with edge computing.
+\newblock {\em arXiv preprint arXiv:1905.10083}, 2019.
+
+\end{thebibliography}

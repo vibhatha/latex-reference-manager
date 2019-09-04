@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dummy.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Repeated entry---line 69 of file refs.bib
+ : @inproceedings{dnn-cloud-edge
+ :                              ,
+I'm skipping whatever remains of this entry
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            595 strings with 7794 characters,
+and the built_in function-call counts, 8135 in all, are:
+= -- 779
+> -- 484
+< -- 8
++ -- 191
+- -- 172
+* -- 587
+:= -- 1319
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 142
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 290
+empty$ -- 565
+format.name$ -- 172
+if$ -- 1709
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 17
+newline$ -- 96
+num.names$ -- 38
+pop$ -- 169
+preamble$ -- 1
+purify$ -- 123
+quote$ -- 0
+skip$ -- 231
+stack$ -- 0
+substring$ -- 452
+swap$ -- 97
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 0
+while$ -- 68
+width$ -- 21
+write$ -- 204
+(There was 1 error message)
